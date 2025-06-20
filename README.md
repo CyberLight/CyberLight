@@ -4,6 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLight&layout=compact&theme=merko)](https://github.com/CyberLight/github-readme-stats)
 
+### My certificates (Мои сертификаты)
+
+[![2023](certificates/yandex/coderun_7_2023.png)](certificates/yandex/bf6a87db-4c95-4092-bc33-9e9b3497c114.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![2024](certificates/yandex/coderun_17_2024.png)](certificates/yandex/10010466-e859-d416-1a92-bc85dd3baa9a.pdf)
+
 <!--
 **CyberLight/CyberLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
