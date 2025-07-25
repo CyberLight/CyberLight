@@ -7,8 +7,10 @@
 ### My certificates (Мои сертификаты)
 
 [![2023](certificates/yandex/coderun_7_2023.png)](certificates/yandex/bf6a87db-4c95-4092-bc33-9e9b3497c114.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [![2024](certificates/yandex/coderun_17_2024.png)](certificates/yandex/10010466-e859-d416-1a92-bc85dd3baa9a.pdf)
+&nbsp;&nbsp;
+[![2025](certificates/yandex/coderun_25_07_2025.png)](certificates/yandex/10010468-836f-67f6-b864-d4b896d8fb7c.pdf)
 
 <!--
 **CyberLight/CyberLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
