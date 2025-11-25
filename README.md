@@ -1,9 +1,5 @@
 ### Hi there 👋 Всем ку!
 
-![CyberLight github stats](https://github-readme-stats.vercel.app/api?username=CyberLight&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLight&layout=compact&theme=merko)](https://github.com/CyberLight/github-readme-stats)
-
 ### My certificates (Мои сертификаты)
 
 [![2023](certificates/yandex/coderun_7_2023.png)](certificates/yandex/bf6a87db-4c95-4092-bc33-9e9b3497c114.pdf)
